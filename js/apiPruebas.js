@@ -14,10 +14,10 @@ const MetodoGet = () => {
 
 // const MetodoPost = () => {
 //     const person = {
-//         id: 19,
-//         name: "Daniel",
-//         age: 28,
-//         email: "correoDaniel@correo.com",
+//         id: 10,
+//         name: "Carlos",
+//         age: 31,
+//         email: "correo@correo.com",
 //         createdDate: "2020-05-17"
 //     }
 
@@ -34,10 +34,10 @@ const MetodoGet = () => {
 
 // const MetodoPut = () => {
 //     const person = {
-//         id: 3,
-//         name: "Daniel",
-//         age: 28,
-//         email: "correoDaniel@correo.com",
+//         id: 1,
+//         name: "Carlos",
+//         age: 31,
+//         email: "correo@correo.com",
 //         createdDate: "2020-05-17"
 //     }
 
